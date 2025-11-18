@@ -1,0 +1,15 @@
+*, html{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.span1{
+    font-size: 300;
+    background-color: brown;
+}
+
+.container{
+    background-color: brown;
+    
+}
